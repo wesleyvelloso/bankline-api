@@ -14,7 +14,7 @@
 	<name>bankline-api</name>
 	<description>API Rest do projeto Bankline</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -57,6 +57,8 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
+
 		</plugins>
 	</build>
 
